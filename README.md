@@ -29,9 +29,9 @@ Average Trip Time – What is the average duration of trips?
  Download Raw Data Button 
 
 
-- Dashboard trip analysis <a href="https://github.com/Durgesh2026/Uber-Dashboard-Power-Bi-/blob/main/Trip%20analysis%20uber.png">View Dashboard</a>
+- Dashboard Overview analysis <a href="https://github.com/Durgesh2026/Uber-Dashboard-Power-Bi-/blob/main/OVERVIEW%20ANALYSIS%20uber.png">View Dashboard</a>
+- Dashboard time analysis <a href="https://github.com/Durgesh2026/Uber-Dashboard-Power-Bi-/blob/main/Trip%20analysis%20uber.png">View Dashboard</a>
 
-- Dashboard trip analysis <a href="https://github.com/Durgesh2026/Uber-Dashboard-Power-Bi-/blob/main/OVERVIEW%20ANALYSIS%20uber.png">View Dashboard</a>
 
-- Dashboard trip analysis <a href="https://github.com/Durgesh2026/Uber-Dashboard-Power-Bi-/blob/main/Details%20UBER.png">View Dashboard</a>
+- Dashboard Details analysis <a href="https://github.com/Durgesh2026/Uber-Dashboard-Power-Bi-/blob/main/Details%20UBER.png">View Dashboard</a>
 
