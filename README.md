@@ -5,6 +5,8 @@ Analyse Uber trip data using Power BI to gain insights into booking trends, reve
 ##DATASET Used
 - <a href="https://github.com/Durgesh2026/Uber-Dashboard-Power-Bi-/blob/main/Uber%20Trip%20Details.xlsx">Dataset</a>
 
+- <a href="https://github.com/Durgesh2026/Uber-Dashboard-Power-Bi-/blob/main/Location%20Table.xlsx">Dataset</a>
+
 ## (KPIs)
 Total Bookings – How many trips were booked over a given period?
 Total Booking Value – What is the total revenue generated from all bookings?
